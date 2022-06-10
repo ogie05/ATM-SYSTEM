@@ -1,0 +1,50 @@
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.exe
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.pdb
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.xml
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Login.resources
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Resources.resources
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Register.resources
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.vbproj.GenerateResource.Cache
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.exe
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.xml
+c:\users\sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.pdb
+C:\Users\Sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.forgotpass.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.forgotpasscode.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Main.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.normal_user_form.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Adminmain.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.vbprojAssemblyReference.cache
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Adminmain.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.forgotpass.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.forgotpasscode.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Login.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Main.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Resources.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.normal_user_form.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM_SYSTEM.Register.resources
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.vbproj.GenerateResource.cache
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.exe
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.xml
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.pdb
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.exe.config
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.exe
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.pdb
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\ATM SYSTEM.xml
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\Google.Protobuf.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\MySql.Data.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\System.Memory.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\Zstandard.Net.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\Ubiety.Dns.Core.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\Renci.SshNet.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\bin\Debug\System.Buffers.dll
+F:\1st sem\SYSTEM COPY(IMPORTANT!)\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.vbproj.CopyComplete
+F:\DL\ATM SYSTEM\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.exe
+F:\DL\ATM SYSTEM\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.xml
+F:\DL\ATM SYSTEM\ATM SYSTEM\ATM SYSTEM\obj\x86\Debug\ATM SYSTEM.pdb
